@@ -1,0 +1,13 @@
+Throughput (MiB/s) - Encrypt
+algorithm  AES-128  AES-256    DES
+file                              
+10MB        266.00   206.98  71.85
+1KB          61.34    67.19  29.57
+1MB         239.20   205.26  71.04
+
+Throughput (MiB/s) - Decrypt
+algorithm  AES-128  AES-256    DES
+file                              
+10MB        308.61   229.17  88.56
+1KB          89.66    90.51  42.11
+1MB         268.52   231.13  89.47
